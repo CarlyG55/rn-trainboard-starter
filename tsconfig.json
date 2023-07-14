@@ -3,6 +3,7 @@
   "include": ["**/*"],
   "types": ["react"],
   "compilerOptions": {
-    "strict": true
+    "strict": true,
+    "jsx": "react"
   }
 }

@@ -14,7 +14,7 @@ const theme = {
   colors: {
     ...PaperDefaultTheme.colors,
     ...NavigationDefaultTheme.colors,
-    primary: '#4169E1',
+    primary: '#fe4365',
     accent: '#f1c40f',
     favorite: '#BADA55',
     cancelButton: '#a4c639',
